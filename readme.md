@@ -9,4 +9,6 @@ Credits:
 
 # Run on local
 
-Simply clone this repository and run `composer install`
+- Simply clone this repository and run `composer install`
+- Run server: `php artisan serve`
+- All routes are located in `laravel-sanctum-api/app/routes/api.php`
